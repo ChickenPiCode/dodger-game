@@ -1,7 +1,7 @@
 {
    "name": "MiniDoodle",
    "description": "Collaborative drawing canvas",
-   "author": "Code-and.Coffee",
+   "author": "Daniel Fang",
    "dependencies" : {
       "express": "4.x",
       "socket.io": "*"
